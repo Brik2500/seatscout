@@ -12,7 +12,7 @@ export const MOCK_TICKETS: Ticket[] = [
   {
     id: "1",
     event: "Dodgers vs Yankees",
-    date: "2026-05-10",
+    date: "2026-07-10",
     section: "Reserve 1",
     row: "A",
     seat: "12",
@@ -23,7 +23,7 @@ export const MOCK_TICKETS: Ticket[] = [
   {
     id: "2",
     event: "Dodgers vs Yankees",
-    date: "2026-05-10",
+    date: "2026-07-10",
     section: "Field Box 26",
     row: "C",
     seat: "7",
@@ -34,7 +34,7 @@ export const MOCK_TICKETS: Ticket[] = [
   {
     id: "3",
     event: "Dodgers vs Yankees",
-    date: "2026-05-10",
+    date: "2026-07-10",
     section: "Top Deck 1",
     row: "F",
     seat: "22",
@@ -45,7 +45,7 @@ export const MOCK_TICKETS: Ticket[] = [
   {
     id: "4",
     event: "Dodgers vs Yankees",
-    date: "2026-05-10",
+    date: "2026-07-10",
     section: "Loge Box 116",
     row: "B",
     seat: "5",
@@ -56,7 +56,7 @@ export const MOCK_TICKETS: Ticket[] = [
   {
     id: "5",
     event: "Dodgers vs Yankees",
-    date: "2026-05-10",
+    date: "2026-07-10",
     section: "Reserve 52",
     row: "D",
     price: 55,
@@ -66,7 +66,7 @@ export const MOCK_TICKETS: Ticket[] = [
   {
     id: "6",
     event: "Dodgers vs Giants",
-    date: "2026-06-15",
+    date: "2026-08-07",
     section: "Field Box 5",
     row: "A",
     seat: "3",
@@ -77,7 +77,7 @@ export const MOCK_TICKETS: Ticket[] = [
   {
     id: "7",
     event: "Dodgers vs Giants",
-    date: "2026-06-15",
+    date: "2026-08-07",
     section: "Top Deck 4",
     row: "G",
     seat: "11",
@@ -88,7 +88,7 @@ export const MOCK_TICKETS: Ticket[] = [
   {
     id: "8",
     event: "Dodgers vs Giants",
-    date: "2026-06-15",
+    date: "2026-08-07",
     section: "Reserve 10",
     row: "B",
     seat: "8",
@@ -99,7 +99,7 @@ export const MOCK_TICKETS: Ticket[] = [
   {
     id: "9",
     event: "Dodgers vs Padres",
-    date: "2026-07-04",
+    date: "2026-09-04",
     section: "Loge Box 140",
     row: "C",
     seat: "15",
@@ -110,7 +110,7 @@ export const MOCK_TICKETS: Ticket[] = [
   {
     id: "10",
     event: "Dodgers vs Padres",
-    date: "2026-07-04",
+    date: "2026-09-04",
     section: "Top Deck 7",
     row: "H",
     price: 18,
@@ -124,7 +124,7 @@ export const MOCK_TICKETS: Ticket[] = [
 // Update these as you add more events.
 // ─────────────────────────────────────────────
 export const DODGERS_GAMES = [
-  { label: "Dodgers vs Yankees — May 10, 2026", event: "Dodgers vs Yankees", date: "2026-05-10" },
-  { label: "Dodgers vs Giants — Jun 15, 2026",  event: "Dodgers vs Giants",  date: "2026-06-15" },
-  { label: "Dodgers vs Padres — Jul 4, 2026",   event: "Dodgers vs Padres",  date: "2026-07-04" },
+  { label: "Dodgers vs Yankees — Jul 10, 2026", event: "Dodgers vs Yankees", date: "2026-07-10" },
+  { label: "Dodgers vs Giants — Aug 7, 2026",   event: "Dodgers vs Giants",  date: "2026-08-07" },
+  { label: "Dodgers vs Padres — Sep 4, 2026",   event: "Dodgers vs Padres",  date: "2026-09-04" },
 ];
